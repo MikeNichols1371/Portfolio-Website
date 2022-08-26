@@ -259,7 +259,7 @@ input[type=text], select, textarea {
     padding-top: 5vh;
   }
  .carousel-inner{
-    padding-top: 5vh;
+    padding-top: 2vh;
     padding-right: 10vh;
     padding-left: 10vh;
 }
